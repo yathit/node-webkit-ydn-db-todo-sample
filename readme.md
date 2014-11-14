@@ -20,7 +20,7 @@ Package
 
 Run
 
-    ./bin/node-webkit todo.nw
+    /Applications/node-webkit.app/Contents/MacOS/node-webkit ./todo.nw
 
 
 ## Development
