@@ -1,0 +1,16 @@
+{
+  "name": "nw-todo",
+  "version": "0.1.0",
+  "main": "index.html",
+  "window": {
+    "frame": false,
+    "toolbar": false
+  },
+  "platformOverrides": {
+    "win": {
+      "window": {
+        "frame": true
+      }
+    }
+  }
+}
