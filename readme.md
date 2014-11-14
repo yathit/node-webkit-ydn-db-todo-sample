@@ -7,7 +7,7 @@
 
 ## Demo
 
-Download [binary zip file](gs://ydn-db-d1/nw-todo/YDN-DB-Todo-0.1.0.zip)
+Download [binary zip file](gs://ydn-db-d1/nw-todo/YDN-DB-Todo-0.1.0.zip). It includes binary file for Windows and OS X.
 
 ## Setup
 
