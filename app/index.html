@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+  <meta charset="UTF-8">
+  <title>YDN0DB Todo list app by Node-Webkit</title>
+  <style>
+    body {
+      color: #222;
+      font: 14px Arial;
+    }
+
+    body a {
+      cursor: pointer;
+      color: #3D5C9D;
+      text-decoration: none;
+    }
+  </style>
+  <script src="js/ydn.db-dev.js"></script>
+
+</head>
+<body>
+<h3>YDN-DB todo list sample app</h3>
+<ul id="todoItems"></ul>
+<input type="text" id="todo" name="todo" placeholder="What do you need to do?" style="width: 200px;" />
+<script src="js/todo.js"></script>
+<input type="submit" value="Add Todo Item" onclick="addTodo(); return false;"/>
+</body>
+</html>
