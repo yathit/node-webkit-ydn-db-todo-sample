@@ -4,6 +4,11 @@
 
 [YDN-DB](http://dev.yathit.com/ydn-db) is HTML5 database library for storing significant amount of data on client browser.
 
+
+## Demo
+
+Download [binary zip file](gs://ydn-db-d1/nw-todo/YDN-DB-Todo-0.1.0.zip)
+
 ## Setup
 
 
@@ -27,6 +32,8 @@ Build binary files
 
     grunt
 
+## Upload
 
+    gsutil cp bin/YDN-DB-Todo.zip gs://ydn-db-d1/nw-todo/YDN-DB-Todo-0.1.0.zip
 
 
